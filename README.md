@@ -2,7 +2,7 @@
 
 This is a visualisation tool for AVL tree in React.js with insert/delete and search operations
 
-You can see try the live demo here - https://JAYKRISHNAN.github.io/AVL-Tree-Visualizer-in-React
+You can see try the live demo here - https://raw.githack.com/PremPK07/AVL-TREE-VISUALIZER/main/AVL-Tree-Visualizer/index.html
 
 AVL tree is a height balanced binary search tree that always ensure O(log(n)) time complexity for insert/delete/search operations
 
